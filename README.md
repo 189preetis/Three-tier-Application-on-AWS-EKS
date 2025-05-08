@@ -1,4 +1,4 @@
-# #TWSThreeTierAppChallenge
+# #Three-tier-Application-on-AWSEKS
 
 ## Overview
  The involves deploying a Three-Tier Web Application using ReactJS, NodeJS, and MongoDB, with deployment on AWS EKS. 
